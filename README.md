@@ -18,5 +18,9 @@ O Objeto do projeto é criar uma Sala de chat compartilhável e com websockets a
 e no final (40:00)
 Criamos nosso primeiro código em GO 
 
-paramos em (28:51)
+- em GO não é recomendado usar **ORM**
+
+- go generate ./...
+-   rodar outros comando usando a ferramenta generate do go
+
 https://app.rocketseat.com.br/events/go-react-na-pratica/go-react/aula-01-or-go-or-semana-tech-go-react
