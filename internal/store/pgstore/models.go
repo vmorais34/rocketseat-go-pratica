@@ -13,6 +13,7 @@ type Message struct {
 	RoomID        uuid.UUID
 	Message       string
 	ReactionCount int64
+	Answered      bool
 }
 
 type Room struct {
