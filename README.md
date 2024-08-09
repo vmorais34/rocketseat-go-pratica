@@ -7,6 +7,8 @@ Semana Rocketseat GO + React
 [Packages](https://pkg.go.dev/)
 [SQLc](https://docs.sqlc.dev/)
 [chi-CORS](https://github.com/go-chi/cors)
+[Gorilla-websockets](https://github.com/gorilla/websocket)
+
 
 O Objeto do projeto é criar uma Sala de chat compartilhável e com websockets através do GO para termos interações em tempo real.
 
